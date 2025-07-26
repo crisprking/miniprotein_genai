@@ -1,0 +1,1 @@
+!pip freeze -q | head -n 120
