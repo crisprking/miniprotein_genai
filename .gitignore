@@ -1,1 +1,7 @@
--e ".env\n__pycache__/\n*.pt\n*.pickle\n/.idea/" 
+__pycache__/
+*.ipynb_checkpoints/
+.env/
+*.pt
+*.pickle
+.idea/
+
